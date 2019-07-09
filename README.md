@@ -1,3 +1,5 @@
+# Prettier
+
 ![Prettier Banner](https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png)
 
 <h2 align="center">Opinionated Code Formatter</h2>
@@ -55,6 +57,16 @@
   <a href="https://twitter.com/PrettierCode">
     <img alt="Follow Prettier on Twitter" src="https://img.shields.io/twitter/follow/prettiercode.svg?label=follow+prettier&style=flat-square"></a>
 </p>
+
+## Fork
+
+This fork is for fixing bugs.
+
+- Update remark-parse to 6.0.3 which fix a lot's of bugs.
+
+```shell
+npm i panjiang-prettier
+```
 
 ## Intro
 
