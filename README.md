@@ -65,7 +65,7 @@ This fork is for fixing bugs.
 - Update remark-parse to 6.0.3 which fix a lot's of bugs.
 
 ```shell
-npm i panjiang-prettier
+npm i pj-prettier
 ```
 
 ## Intro
